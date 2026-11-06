@@ -13,16 +13,7 @@ A modern full-stack travel booking platform that helps users discover, explore, 
 - Secure user registration and login
 - JWT-based authentication
 - Protected routes
-- Role-based access control (RBAC)
 - Persistent user sessions
-
-### 🏠 Property Listings
-
-- Browse available properties
-- Search and filter listings
-- View detailed property information
-- Responsive property cards
-- Pagination support
 
 ### ❤️ User Experience
 

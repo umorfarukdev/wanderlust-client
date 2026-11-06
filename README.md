@@ -47,14 +47,6 @@ A modern full-stack travel booking platform that helps users discover, explore, 
 - View reservation history
 - Booking validation
 
-### 🔍 Search & Filtering
-
-- Search by destination
-- Filter by category
-- Filter by price
-- Sort listings
-- Dynamic search results
-
 ---
 
 # 🛠 Tech Stack

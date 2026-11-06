@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 WanderLust
 
-## Getting Started
+A modern full-stack travel booking platform that helps users discover, explore, and book accommodations with a seamless and secure experience. WanderLust provides an intuitive interface for browsing properties, managing listings, authenticating users, and sharing travel experiences.
 
-First, run the development server:
+> **Live Demo:** https://wanderlust-client-xi.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🔐 Authentication & Authorization
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Secure user registration and login
+- JWT-based authentication
+- Protected routes
+- Role-based access control (RBAC)
+- Persistent user sessions
 
-## Learn More
+### 🏠 Property Listings
 
-To learn more about Next.js, take a look at the following resources:
+- Browse available properties
+- Search and filter listings
+- View detailed property information
+- Responsive property cards
+- Pagination support
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### ❤️ User Experience
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Fully responsive design
+- Modern UI built with Tailwind CSS
+- Fast page loading
+- Mobile-friendly layout
+- Interactive user interface
 
-## Deploy on Vercel
+### 👤 User Dashboard
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Manage personal profile
+- Create new listings
+- Update existing listings
+- Delete listings
+- View booking history
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 📦 Booking System
+
+- Book available properties
+- Booking status management
+- View reservation history
+- Booking validation
+
+### 🔍 Search & Filtering
+
+- Search by destination
+- Filter by category
+- Filter by price
+- Sort listings
+- Dynamic search results
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+
+## Backend
+
+- Node.js
+- Express.js
+- REST API
+
+## Database
+
+- MongoDB
+
+## Authentication
+
+- Better Auth
+- JWT
+
+## Deployment
+
+- Vercel
+
+## Developer Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- Figma
+
+Live link: https://wanderlust-client-xi.vercel.app/
